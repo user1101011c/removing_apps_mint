@@ -1,1 +1,1 @@
-sudo apt purge libreoffice* rhythmbox parole totem transmission-* thunderbird*  gthumb hypnotix celluloid thingy gnome-calendar webapp-manager pix drawing simple-scan warpinator && sudo apt autoremove --purge -y
+sudo apt purge libreoffice* rhythmbox parole totem transmission-* thunderbird*  gthumb hypnotix celluloid thingy gnome-calendar webapp-manager pix drawing mate-orca simple-scan warpinator && sudo apt autoremove --purge -y
